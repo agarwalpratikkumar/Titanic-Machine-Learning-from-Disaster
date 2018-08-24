@@ -7,4 +7,3 @@ algorithms to make predictions.
 
 The complete project is done in R language. The dataset is available on Kaggel. Help from Kernels has been taken for the successfull
 completion of this project. 
-As this was my first project in R, I have tried to add sufficient comments explaining the meaning of each and every line in the project.
