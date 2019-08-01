@@ -5,5 +5,4 @@ Motivation:
 The motivation for this project was to get first hand experience in analysing any dataset. And how to apply various machine learning
 algorithms to make predictions.
 
-The complete project is done in R language. The dataset is available on Kaggel. Help from Kernels has been taken for the successfull
-completion of this project. 
+The complete project is done in R language. The dataset is available on Kaggel. Help from Kernels and youtube videos from David Langer (https://www.youtube.com/watch?v=32o0DnuRjfg) has been taken for the successfull completion of this project.
