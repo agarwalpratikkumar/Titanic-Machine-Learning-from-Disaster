@@ -3,8 +3,8 @@ This Project is building a machine learning model that can predict whether a pas
 The complete project is done in R language. ggplot has been used for visualisation. 
 After performing some feature engineering and feature selection we finally trained a Random Forest model and showed that how cross-validation technique can increase the accuracy of the model in prediction. We have performed 10 fold cross validation.
 For feature selection we tried with various logical combinations and connections between different features and checked the accuracy of the model.
-<br>
-# Outcome:
+
+# Outcome: 
 Survival rate of women and children from upper class was more than the survival rate of men.
 
 Motivation:
